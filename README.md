@@ -3,7 +3,7 @@ Save your favourite website using this extension/
 
 concepts learnt:/
 addEventListner()/
-innerHtml;
+innerHtml/
 input.value/
 function parameter/
 template strings/
