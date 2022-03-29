@@ -1,9 +1,0 @@
-{
-    "manifest_version": 3,
-    "version": "1.0",
-    "name": "tracker",
-    "action": {
-        "default_popup": "chrome html.html",
-        "default_icon": "icon.jpg"
-    }
-}
